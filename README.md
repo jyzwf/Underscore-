@@ -1,40 +1,46 @@
-一些组合的好的函数：
-optimizeCb
+## 值得一读的函数：
 
-cb
 
-_.sortBy
+[optimizeCb](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L71)
 
-_.invoke
+[cb](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L105)
 
-_.contains
+[_.sortBy](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L599)
 
-restArgs
+[_.invoke](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L400)
 
-_.flatten：展开数组
+[_.contains](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L386)
 
- _.union ：数组的并集
+[restArgs](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L129)
 
-_.intersection：求数组的交集
+[_.flatten](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L782)
 
-_.unzip和_.zip
+[ _.union](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L877)
 
- _.shuffle : 随机乱序
+[_.intersection](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L888)
 
-_.indexOf
+[_.unzip](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L921)
 
-_.findIndex
+[_.zip](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L937)
 
-_.wrap 
+[_.shuffle](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L562)
 
-_.partial
+[_.indexOf](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L1042)
 
-createAssigner
+[_.findIndex](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L975)
 
-_.pick
+[_.wrap ](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L1400)
 
-_.omit 
+[_.bind](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L1127)
 
-_.isEqual 
+[_.partial](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L1212)
 
-_.mixin
+[createAssigner](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L1642)
+
+[_.pick](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L1694)
+
+[_.omit ](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L1724)
+
+[_.isEqual](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L1971)
+
+[_.mixin](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L2438)
