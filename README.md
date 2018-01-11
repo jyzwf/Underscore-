@@ -44,3 +44,6 @@
 [_.isEqual](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L1971)
 
 [_.mixin](https://github.com/jyzwf/Underscore-Readding/blob/master/underscore.js#L2438)
+
+
+如有不当，欢迎交流^_^
